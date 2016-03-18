@@ -9,11 +9,13 @@ Table of Contents
     * [quickly develop rest server](#quickly develop rest server)
     * [easily debug](#easily debug)
     * [quickly automatic test](#quickly automatic test)
+    * [automatic doc genarition] (#automatic doc genarition)
 * [Author](#Author)
 * [Copyright & License](#copyright--license)
 
 description
 ======
+create a rest server api quickly:
 
 quickly develop rest server
 ======
